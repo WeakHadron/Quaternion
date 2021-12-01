@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quaternion</string>
+    <string name="moto">Fuck ShareIt, my homies use Quaternion</string>
+    <string name="receive_text">Receive File(s)</string>
+    <string name="quaternion">Quaternion</string>
+    <string name="send_text">Send File(s)</string>
+</resources>
